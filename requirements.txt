@@ -1,0 +1,12 @@
+datasets>=2.19.0
+huggingface-hub>=0.23.0
+pydantic>=2.7.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+torch>=2.2.0
+litellm>=1.40.0
+plotly>=5.20.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
